@@ -12,3 +12,5 @@ BLOG_TITLE = "My Django Blog"
 BLOG_DESCRIPTION = "Rapid development of web applications"
 BLOG_KEYWORDS = "django, python, webframework"
 BLOG_AUTHOR = "Micropyramid"
+
+ALLOWED_HOSTS = ['doityourselfinvest.herokuapp.com']
